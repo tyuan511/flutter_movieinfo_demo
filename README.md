@@ -1,16 +1,14 @@
-# movieinfo
+# Flutter Movie Info Demo
 
-A new Flutter project.
+来自youtube上的教程：https://www.youtube.com/watch?v=OgSLd2lH1FM
 
-## Getting Started
+原项目：https://github.com/abuanwar072/Movie-Info---Flutter-UI
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 项目截图
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 首页
+![首页](./screenshots/home.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 详情页
+![首页](./screenshots/detail.png)
